@@ -1,4 +1,4 @@
-# Snake-Game// C program to build the complete 
+// C program to build the complete 
 // snake game 
 #include <conio.h> 
 #include <stdio.h> 
